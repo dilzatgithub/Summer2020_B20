@@ -1,4 +1,4 @@
-package day_50Inheritance_Overriding;
+package day50_Inheritance_Overriding;
 
 public class AccessMod {
 

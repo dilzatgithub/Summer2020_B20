@@ -1,4 +1,4 @@
-package day_50Inheritance_Overriding;
+package day50_Inheritance_Overriding;
 
 public class test extends AccessMod{
     public static void main(String[] args) {

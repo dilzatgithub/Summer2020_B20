@@ -1,6 +1,6 @@
 package Library;
 
-import day_50Inheritance_Overriding.AccessMod;
+import day50_Inheritance_Overriding.AccessMod;
 
 public class inheritanceTest extends AccessMod {
     public static void main(String[] args) {
