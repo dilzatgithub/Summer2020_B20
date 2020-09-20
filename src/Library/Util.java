@@ -520,6 +520,14 @@ public class Util {
         return arr3;
     }
     // combines two array and returns it
+    public static void sleep(int seconds){
+
+        try {
+            Thread.sleep(seconds*1000);
+        }catch (InterruptedException a){
+
+        }
+    }
 
 
 
